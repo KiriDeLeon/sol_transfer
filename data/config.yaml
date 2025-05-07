@@ -1,0 +1,5 @@
+value: 0.0001
+
+sender: ["private", "private"]
+to:
+  ["private", "private", "private", "private", "private", "private", "private"]
